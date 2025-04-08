@@ -42,7 +42,8 @@ A Data Analyst’s workflow generally includes:
 
 Data modeling acts as the **foundation for analytics**—poor modeling can result in incorrect or slow reports. In this project, we adopted a **Snowflake Schema** to ensure optimized performance and accurate visualizations.
 
-<!-- Insert Snowflake Schema Screenshot Here -->
+![Snowflake Schema](https://github.com/Ankkitx/Business-Insights-360/blob/main/snowflake%20schema.png?raw=true)
+
 
 ---
 
@@ -52,35 +53,38 @@ The dashboard includes **six pages**, each designed for specific business functi
 
 ### 🏠 Home Page
 A navigation hub to access other views.
-<!-- Screenshot of Home Page -->
+[<!-- Screenshot of Home Page -->](https://github.com/Ankkitx/Business-Insights-360/blob/main/Info.png?raw=true)
 
 ### 💰 Finance View
 Helps improve **financial planning**, **budgeting**, and **cost control**.
 - Profit and Loss statements
 - Top/Bottom Products & Customers by Net Sales
-<!-- Screenshot of Finance View -->
+![Finance View](https://github.com/Ankkitx/Business-Insights-360/blob/main/Finance%20view.png?raw=true)
+
 
 ### 📈 Sales View
 Aim to increase **sales revenue** and **market share**.
 - Customer performance by Net Sales
 - Gross Margin & Gross Margin %
-<!-- Screenshot of Sales View -->
+![Sales View](https://github.com/Ankkitx/Business-Insights-360/blob/main/Sales%20view.png?raw=true)
 
 ### 📣 Marketing View
 Focuses on **brand visibility** and **customer engagement**.
 - Segment performance by Gross Margin % and Net Profit %
-<!-- Screenshot of Marketing View -->
+![Marketing View](https://github.com/Ankkitx/Business-Insights-360/blob/main/Marketing%20view.png?raw=true)
 
 ### 🚚 Supply Chain View
 Optimizes **inventory management** and **supplier performance**.
 - Forecast Accuracy, Net Error, and other logistics KPIs
-<!-- Screenshot of Supply Chain View -->
+![Supply Chain View](https://github.com/Ankkitx/Business-Insights-360/blob/main/Supply%20chain%20view.png?raw=true)
+
 
 ### 🧑‍💼 Executive View
 Offers a **high-level summary** for top management.
 - Net Sales, Gross Margin %, Net Profit
 - Top 5 Customers & Products, Regional Performance
-<!-- Screenshot of Executive View -->
+![Executive View](https://github.com/Ankkitx/Business-Insights-360/blob/main/Executive%20View.png?raw=true)
+
 
 ---
 
