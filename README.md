@@ -1,5 +1,6 @@
 # AtliQ Business Insights 360
 
+# ➡️ Live Dashboard: https://shorturl.at/sD595
 ## 📊 Project Overview
 
 **AtliQ Hardware**, a fast-growing company specializing in computers and accessories, is expanding globally through **retailers**, **direct sales**, and **distributors**.
