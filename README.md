@@ -111,7 +111,7 @@ During this project (via Codebasics Bootcamp), I gained hands-on experience in:
 
 ---
 
-## 💼 Business Concepts Understood
+## 💼 Business Concepts/ Domain Knowledge
 
 - Gross Margin / Gross Margin %
 - Gross Sales / Gross Sales %
